@@ -12,6 +12,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@cloudflare/puppeteer": "^0.0.14",
     "@nuxt/eslint": "^0.6.1",
     "@nuxthub/core": "^0.8.5",
     "nuxt": "^3.14.0",
